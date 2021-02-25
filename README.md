@@ -1,1 +1,8 @@
-# Deep-Learning-Project
+# Deeep-Learning-Project
+
+
+뮤지컬 통합 프로젝트
+
+<개발과정>
+1. 뮤지컬 추천시스템
+2. 이미지 분류예측(데이터 구축 상 '뮤지컬 템플릿 -> 꽃' 대체)
